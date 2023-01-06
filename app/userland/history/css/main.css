@@ -1,0 +1,7 @@
+@import "wallets://app-stdlib/css/common.css";
+@import "wallets://app-stdlib/css/fontawesome.css";
+
+body {
+  font-size: 13px;
+  background: var(--bg-color--secondary);
+}
